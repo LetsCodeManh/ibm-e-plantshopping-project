@@ -1,0 +1,9 @@
+section {
+  max-width: 720px;
+  padding-inline: 2rem;
+}
+
+h2 {
+  font-size: 2rem;
+  text-align: center;
+}
